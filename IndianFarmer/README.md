@@ -91,12 +91,3 @@ Testing is a crucial part of software development. JUnit is used for unit testin
 
 </details>
 
-## Gallery 
-#### Here are the few photos of the project
-<img width="1436" alt="Screenshot 2023-05-02 at 4 56 27 PM" src="https://github.com/leelasabarish/Im-an-IndianFarmer/assets/74003155/2ad44e57-fd90-455f-b402-6dea4fdf89a2">
-<img width="1437" alt="Screenshot 2023-05-02 at 4 57 11 PM" src="https://github.com/leelasabarish/Im-an-IndianFarmer/assets/74003155/0accb7c4-cc15-41b6-856b-1cdfeaf97c79">
-<img width="1431" alt="Screenshot 2023-05-02 at 4 57 42 PM" src="https://github.com/leelasabarish/Im-an-IndianFarmer/assets/74003155/78d823c7-f9bc-4e0c-bd2c-88bcd3d2a24f">
-<img width="1434" alt="Screenshot 2023-05-02 at 4 59 30 PM" src="https://github.com/leelasabarish/Im-an-IndianFarmer/assets/74003155/16442f7f-a53e-4d8e-b256-bbf70a529bc8">
-
-
-
